@@ -1,6 +1,3 @@
-# Assignment3-
-<html>
-    <body>
-        <img src="taklif3.PNG">
-    </body>
-</html>
+# Assignment3
+
+![Uploading taklif3.PNG…]()
